@@ -1,0 +1,12 @@
+.Eight-Ball {
+  width: 25vw;
+  border-radius: 100000px;
+  font-size: 2rem;
+  height: 25vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
